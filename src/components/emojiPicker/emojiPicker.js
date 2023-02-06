@@ -1,5 +1,9 @@
-export default function EmojiPicker() {
+import { forwardRef } from "react"
+
+export function EmojiPicker(props, inputRef) {
     return (
-        <div>asd</div>
+        <div>Hola</div>
     )
 }
+
+export default forwardRef(EmojiPicker)
