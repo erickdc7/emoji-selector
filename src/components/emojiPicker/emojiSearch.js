@@ -1,5 +1,7 @@
+import styles from "./emojiPicker.module.css";
+
 export default function EmojiSearch({ onSearch }) {
     return (
-        <input type="text" onChange={onSearch} />
-    )
+        <input className={styles.search} onChange={onSearch} />
+    );
 }

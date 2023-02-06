@@ -1,13 +1,13 @@
 export const data = [
     {
-        symbol: "😀",
+        symbol: "😊",
         name: "cara alegre",
         keywords: "smiling face happy",
     },
     {
-        symbol: "💖",
+        symbol: "❤",
         name: "corazon",
-        keywords: "heart love like",
+        keywords: "hearth love like",
     },
     {
         symbol: "🔥",
@@ -23,5 +23,5 @@ export const data = [
         symbol: "🤯",
         name: "cabeza explotada",
         keywords: "head exploding mind blowing",
-    }
+    },
 ];
