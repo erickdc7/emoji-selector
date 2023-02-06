@@ -2,26 +2,26 @@ export const data = [
     {
         symbol: "😀",
         name: "cara alegre",
-        keyword: "smiling face happy",
+        keywords: "smiling face happy",
     },
     {
         symbol: "💖",
         name: "corazon",
-        keyword: "heart love like",
+        keywords: "heart love like",
     },
     {
         symbol: "🔥",
         name: "fuego",
-        keyword: "fire hot burn",
+        keywords: "fire hot burn",
     },
     {
         symbol: "💎",
         name: "diamante",
-        keyword: "gem stone diamond",
+        keywords: "gem stone diamond",
     },
     {
         symbol: "🤯",
         name: "cabeza explotada",
-        keyword: "head exploding mind blowing",
+        keywords: "head exploding mind blowing",
     }
 ];
