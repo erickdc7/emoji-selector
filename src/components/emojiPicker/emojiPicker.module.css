@@ -1,6 +1,8 @@
 .inputContainer {
   display: inline-flex;
   position: relative;
+  margin: 15px;
+  column-gap: 0.25rem;
 }
 
 .emojiPickerContainer {
@@ -17,6 +19,7 @@
 
 .emojiPickerButton {
   display: inline-block;
+  font-size: 1rem;
 }
 
 .emojisList {
@@ -27,7 +30,7 @@
 
 .emojiButton {
   border: none;
-  font-size: 28px;
+  font-size: 1.75rem;
   background-color: transparent;
   padding: 5px;
   cursor: pointer;
